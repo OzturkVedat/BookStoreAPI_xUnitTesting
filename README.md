@@ -30,8 +30,7 @@ A .NET Core Web API for a bookstore with unit, integration, and end-to-end (E2E)
 
 - [.NET SDK](https://dotnet.microsoft.com/download)
 - [Docker](https://www.docker.com/) (for E2E tests with TestContainers)
-- MSSQL (for full production use, if required)
-  
+    
 ### Installation
 
 1. Clone the repository:
