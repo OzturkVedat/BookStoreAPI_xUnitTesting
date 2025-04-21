@@ -4,13 +4,13 @@
 
 ## Overview
 
-A .NET Core Web API for a bookstore 📚 with a primary focus on testing functionality, including unit, integration, and end-to-end (E2E) tests.
+A .NET Core Web API for a bookstore with unit, integration, and end-to-end (E2E) tests.
 
 ## Features
 
 - **BookStore Web API**: A basic RESTful API built with ASP.NET Core.
 - **Unit Testing**: Focus on isolated functionality of API Controllers using xUnit and FluentAssertions.
-- **Integration Testing**: Utilizes an in-memory database to simulate real-world interactions between repository layer and the database.
+- **Integration Testing**: Uses an in-memory database to simulate real-world interactions between repository layer and the database.
 - **End-to-End (E2E) Testing**: Employed TestContainers with an MSSQL instance to replicate a full back-end system test. 
 
 ## Technologies Used
